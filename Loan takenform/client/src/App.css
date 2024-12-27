@@ -1,0 +1,68 @@
+/* frontend/src/App.css
+.app-container {
+  display: flex;
+  font-family: Arial, sans-serif;
+}
+
+/* .sidebar {
+  width: 200px;
+  background-color: #5a356e;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  text-align: center;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 10px 0;
+} */
+ 
+
+/* .form-content {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.form-section {
+  margin-bottom: 20px;
+}
+
+.form-row {
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+textarea {
+  width: calc(50% - 10px);
+  padding: 8px;
+  margin-right: 10px;
+}
+
+textarea {
+  width: 100%;
+}
+
+button {
+  padding: 10px 15px;
+  margin-top: 10px;
+} */ 
+
+/* src/App.css */
+.app {
+  display: flex;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+  background-color: #F5F5F5;
+}
+
